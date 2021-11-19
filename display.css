@@ -1,0 +1,22 @@
+table{
+ font-size: 20px;
+ margin-top: 50px;
+}
+thead{
+ color: #ccc;
+ background-color: #2b2e2b;
+}
+.btn{
+ text-align: center;
+ margin-left: 25px;
+ height: 38px;
+ width: 120px;
+}
+.clr .btn {
+ text-decoration: none;
+ color: #fff;
+}
+.container{
+ margin-top: 25px;
+ align-items: center;
+}
